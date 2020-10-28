@@ -5,3 +5,5 @@ Nature+ is a white noise generator unlike any other. Do you enjoy hearing birds 
 We'd be happy to hear your feedback and suggestions!
 
 Download: https://apps.apple.com/us/app/nature/id1537769380
+
+Contact the Developer: shahrooz.al@gmail.com
